@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	leftRight()
 	rootMax()
 	setup()
 }
